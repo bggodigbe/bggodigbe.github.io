@@ -4,7 +4,8 @@ main:
     url: /about/
 
   - title: "CV"
-    url: /cv/
+    #url: #/cv/
+    url: /files/BrightGG_vitae.pdf/
     
   - title: "Papers"
     url: /publications/
