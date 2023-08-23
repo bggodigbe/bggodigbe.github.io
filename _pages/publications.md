@@ -29,7 +29,7 @@ with Jeong-Bon Kim, Stephen Teng Sun, & Zilong Zhang, *Working Paper,*, 2023 [(L
 
 Technology spillovers are shown to have important implications on firms’ market valuation and innovation activities. Building on this literature, we show that value-relevant information from technology spillovers significantly reduces the likelihood of the focal firm experiencing a stock price crash. This result is robust to alternative measures and potential endogeneity. Additional analyses suggest that the underlying channel for our finding is not technology spillovers discouraging managers from hoarding bad news; rather, it is technology spillovers significantly reducing the differences of investor opinion, which in turn leads to a lower crash risk. We demonstrate that the informational role of financial analysts is likely to facilitate the convergence of investor opinion. Finally, we find a stronger crash risk-reducing effect of technology spillovers for opaque firms. Our findings provide novel evidence that the information externality associated with peer firms’ technology activities helps to reduce the focal firm’s stock price crash risk. 
 
-Segment Reporting and Corporate Takeovers: Evidence from SFAS No. 131
+Segment Reporting and Corporate Takeovers: Evidence from SFAS 131
 ====== 
 with Stephen Teng Sun, & Zilong Zhang, *Working Paper,*, 2023 [(Link)](https://bggodigbe.github.io/files/sfas131mna.pdf) <br>
 
