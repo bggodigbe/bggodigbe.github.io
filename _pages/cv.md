@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 [Download my CV here](https://bggodigbe.github.io/files/BrightGG_vitae.pdf)
+[Another here](https://bggodigbe.github.io/files/M&A - JAE_Submission.pdf)
 
 Education
 ======
