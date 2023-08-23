@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV here](https://github.com/bggodigbe/bggodigbe.github.io/files/BrightGG_vitae.pdf)
+
 Education
 ======
 * Ph.D in Accounting, City University of Hong Kong, 2021
