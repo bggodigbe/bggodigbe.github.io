@@ -15,5 +15,5 @@ Directors’ network centrality and earnings quality
 ====== 
 with Chin Man Chui & Chih-Liang Liu, *Applied Economics,* 2018 [(Link)](https://www.tandfonline.com/doi/abs/10.1080/00036846.2018.1486992) <br>
 
-This study examines whether firms with network central boards of directors behave differently from other firms in terms of financial reporting quality. We find that earnings quality among firms is low when board networks are channels of incorrect information transmission (including earnings management information) and for firms whose directors are awarded equity-based compensation have connections through boardroom networks, but earnings quality is better for firms with good performance in spite of their networks. These results are robust to controlling for firm information environment, growth, size, age, leverage, performance, volatility in firm operations, and corporate governance.
+This study examines whether firm networks can serve as a medium  to propagate financial reporting behavior. We find that earnings quality among firms is low when board networks are channels of incorrect information transmission (including earnings management information). Earnings quality is better for firms with good performance in spite of their networks. These results are robust to controlling for firm information environment and governance quality.
   
