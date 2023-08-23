@@ -34,22 +34,20 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ * Godigbe, B.G., Jennings, J., Seo, H., & Tanlu, L. 2022. The Effect of Geographic Diversity on Managerial Earnings Forecasts. [European Accounting Review](https://www.tandfonline.com/doi/full/10.1080/09638180.2022.2139738)
+ * Godigbe, B.G., Chui, C.M. & Liu, C. 2018. Directors’ network centrality and earnings quality. [Applied Economics](https://www.tandfonline.com/doi/abs/10.1080/00036846.2018.1486992)
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ * Washington University in St Louis
+   * Principles of Financial Accounting, Fall 2022
+     * Median Rating: 8/10 from 87 respondents
+   * Principles of Managerial Accounting, Spring 2022
+     * Median Rating: 7.5/10 from 69 respondents
+ * City University of Hong Kong
+   * Introduction to Managerial Accounting, 2018/2019
+     * Weighted Average Rating: 6.12/7 from 34 respondents
+   * Introduction to Managerial Accounting, 2017/2018
+     * Weighted Average Rating: 5.54/7 from 41 respondents     
+
