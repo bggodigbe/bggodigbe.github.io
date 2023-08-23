@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here](https://github.com/bggodigbe/bggodigbe.github.io/files/BrightGG_vitae.pdf)
+[Download my CV here](bggodigbe.github.io/files/BrightGG_vitae.pdf)
 
 Education
 ======
