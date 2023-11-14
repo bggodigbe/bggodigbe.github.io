@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-[Download my CV here](https://bggodigbe.github.io/files/BrightGG_vitae.pdf)
+[Download my CV here](https://bggodigbe.github.io/files/brightg_cv.pdf)
 
 Education
 ======
