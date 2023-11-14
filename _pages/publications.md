@@ -19,7 +19,7 @@ This study examines whether firm networks can serve as a medium  to propagate fi
   
 Information Spillovers at Earnings Announcements
 ====== 
-with Richard Frankel & MaryJane Rabier, *Working Paper,* 2023 [(Link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4522028) <br>
+with Richard Frankel & MaryJane Rabier, *Working Paper,* 2023 [(Link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4522028) Revise & Resubmit at Journal of Accounting Research <br>
 
 Research documents price comovements or “spillovers” between focal firms and peer firms at focal-firm-earnings announcements. We find signed and absolute comovements between focal-firm and peer-firm returns are significantly lower at earnings-announcement dates compared to non-announcement dates. These results raise questions about the size of the information externality of financial reporting.
 
