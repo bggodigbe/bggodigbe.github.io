@@ -39,6 +39,8 @@ Publications
 Teaching
 ======
  * Washington University in St Louis
+   * Principles of Financial Accounting, Fall 2023
+     * Median Rating: 10/10 from 90 respondents
    * Principles of Financial Accounting, Fall 2022
      * Median Rating: 8/10 from 87 respondents
    * Principles of Managerial Accounting, Spring 2022
