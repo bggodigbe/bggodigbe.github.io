@@ -12,12 +12,19 @@ redirect_from:
 
 Washington University in St Louis
 ======
+ * Principles of Financial Accounting, Fall 2023
+   * Required course for WashU Olin BSBA program
+   * First in the sequence of accounting courses
+   * Focus on analyses of economic events and their effects on corporate financial reports
+   * Designed to help students with little to no knowledge about accounting
+   * Students' experiences in this class shape their interest in declaring accounting major
+   * Median Rating: 10/10 from 90 respondents
  * Principles of Financial Accounting, Fall 2022
    * Required course for WashU Olin BSBA program
    * First in the sequence of accounting courses
    * Focus on analyses of economic events and their effects on corporate financial reports
    * Designed to help students with little to no knowledge about accounting
-   * Students' experience in this class shapes their interest in declaring accounting major
+   * Students' experiences in this class shape their interest in declaring accounting major
    * Median Rating: 8/10 from 87 respondents
  * Principles of Managerial Accounting, Spring 2022
    * Required course for WashU Olin BSBA program
