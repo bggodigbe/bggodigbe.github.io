@@ -12,8 +12,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  # - title: # "Acknowledgements"
-  #  url: # /acknowledgement/
+  - title: # "Acknowledgements"
+    url: # /acknowledgement/
     
   #- title: # "Talks"
   #  url: # /talks/   
