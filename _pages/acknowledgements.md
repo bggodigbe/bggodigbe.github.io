@@ -5,7 +5,6 @@ permalink: /acknowledgements/
 author_profile: true
 ---
 
-
 I stand on the shoulders of these giants.
 
 Todd Milbourn [(Profile)](https://olin.wustl.edu/faculty/todd-milbourn)
